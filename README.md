@@ -9,6 +9,12 @@ Module Odoo 18 développé comme exercice technique. Il permet de gérer des opp
 - Ajout du statut « Client prioritaire » aux contacts.
 - Contrôle métier : un contact doit avoir un numéro de téléphone avant de devenir prioritaire.
 
+## Aperçu
+
+Vue Kanban des opportunités commerciales.
+
+![Vue Kanban du Mini CRM](docs/images/mini-crm-kanban.png)
+
 ## Prérequis
 
 - Docker et Docker Compose
