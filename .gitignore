@@ -1,0 +1,7 @@
+# Odoo / Python
+__pycache__/
+*.py[cod]
+
+# Runtime Docker local
+*.log
+.env
